@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Razai Zim</h1>
 <p align="center">
-  💻 WordPress & Frontend Developer | 🔧 Full-Stack Web Developer | 🚀 ThemeForest Theme Creator (for Authors)
+  💻 WordPress & Frontend Developer | 🔧 Full-Stack Web Developer | 🚀 ThemeForest WordPress Theme Creator
 </p>
 
 ---
@@ -11,6 +11,12 @@ I’m a passionate **WordPress developer** and **frontend engineer** with years 
 I also specialize in **full-stack CRUD applications** using modern technologies such as **Firebase**, **Node.js**, **Express**, and **MongoDB**.
 
 ---
+
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/wpexpert5956) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/razai-zim-475701165/) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
 ### 🏗️ WordPress Themes I’ve Built (for ThemeForest Authors)
 
