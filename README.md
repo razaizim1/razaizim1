@@ -4,10 +4,6 @@
 </p>
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=razaizim1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=razaizim1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=razaizim1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🧠 About Me
 
@@ -43,15 +39,10 @@ I also specialize in **full-stack CRUD applications** using modern technologies 
 
 ---
 
-### 💻 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=razai-zim&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razai-zim&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=razai-zim&theme=tokyonight" alt="GitHub Streak" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=razaizim1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=razaizim1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=razaizim1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
