@@ -50,15 +50,6 @@ I also specialize in **full-stack CRUD applications** using modern technologies 
 ![](https://nirzak-streak-stats.vercel.app/?user=razaizim1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=razaizim1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-### 🌐 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/razai-zim-475701165/)
-- 🎨 [Behance Portfolio](https://www.behance.net/wpexpert5956?)
-- 📥 [ThemeForest Projects](https://themeforest.net/user/wpexpert5956/portfolio)
-
----
 
 ### 📩 Open to Collaborate
 
