@@ -1,4 +1,3 @@
-<h1 align="center">👋 Hi, I'm Razai Zim</h1>
 <img src="https://github.com/razaizim1/razaizim1/blob/main/github%20cover.png" alt="razai-zim">
 <p align="center">
   💻 WordPress & Frontend Developer | 🔧 Full-Stack Web Developer | 🚀 ThemeForest WordPress Theme Creator
