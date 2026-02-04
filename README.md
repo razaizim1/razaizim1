@@ -7,7 +7,7 @@
 
 ### 🧠 About Me
 
-I’m a passionate **WordPress developer** and **frontend engineer** with years of experience building custom websites and high-quality WordPress themes for ThemeForest authors.  
+I’m a passionate **WordPress developer**  and **Frontend developer**  with years of experience working on a wide range of web development projects, including custom websites, WordPress solutions, and modern frontend builds.  
 I also specialize in **full-stack CRUD applications** using modern technologies such as **Firebase**, **Node.js**, **Express**, and **MongoDB**.
 
 ---
