@@ -82,10 +82,13 @@ Beyond WordPress, I also develop modern full-stack web applications using **Reac
 
 ---
 
-# 📊 GitHub Stats:
-[![](https://github-readme-stats.vercel.app/api?username=razaizim1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://streak-stats.demolab.com?user=razaizim1&theme=dark)<br/>
-[![](https://nirzak-streak-stats.vercel.app/?user=razaizim1&theme=dark&hide_border=false)](https://github-readme-activity-graph.vercel.app/graph?username=razaizim1&theme=github-dark)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=razaizim1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=razaizim1&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=razaizim1&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=razaizim1&layout=compact&theme=dark&hide_border=true)
 
 
 ### 📩 Open to Collaborate
