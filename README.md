@@ -16,7 +16,7 @@ Beyond WordPress, I also develop modern full-stack web applications using **Reac
 ---
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/wpexpert5956) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/razai-zim-475701165/) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/wpexpert5956) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/razai-zim-475701165/) 
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
@@ -83,8 +83,8 @@ Beyond WordPress, I also develop modern full-stack web applications using **Reac
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=razaizim1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=razaizim1&theme=dark&hide_border=false)<br/>
+[![](https://github-readme-stats.vercel.app/api?username=razaizim1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://streak-stats.demolab.com?user=razaizim1&theme=dark)<br/>
+[![](https://nirzak-streak-stats.vercel.app/?user=razaizim1&theme=dark&hide_border=false)](https://github-readme-activity-graph.vercel.app/graph?username=razaizim1&theme=github-dark)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=razaizim1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
