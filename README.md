@@ -7,8 +7,11 @@
 
 ### 🧠 About Me
 
-I’m a passionate **WordPress developer**  and **Frontend developer**  with years of experience working on a wide range of web development projects, including custom websites, WordPress solutions, and modern frontend builds.  
-I also specialize in **full-stack CRUD applications** using modern technologies such as **Firebase**, **Node.js**, **Express**, and **MongoDB**.
+I'm a passionate **WordPress Developer**, **Frontend Developer**, and **Full-Stack Web Developer** with years of experience building, customizing, maintaining, and optimizing WordPress websites.
+
+I specialize in **custom WordPress theme development**, **Elementor widget development**, **bug fixing**, **design corrections**, **website maintenance**, **performance optimization**, and **troubleshooting complex WordPress issues**. I have contributed to multiple successful ThemeForest products and helped clients improve website functionality, speed, and user experience.
+
+Beyond WordPress, I also develop modern full-stack web applications using **React**, **Node.js**, **Express**, **MongoDB**, and **Firebase**, building secure and scalable solutions with clean, maintainable code.
 
 ---
 
@@ -33,15 +36,49 @@ I also specialize in **full-stack CRUD applications** using modern technologies 
 
 ### 💼 What I Do
 
-- 🎨 Custom WordPress Theme & Elementor Widget Development  
-- 💻 Frontend Design with Tailwind, Bootstrap, GSAP  
-- 🧑‍💻 Full-Stack Development with CRUD operations  
-  - Firebase Auth (Login/Register)
-  - Express APIs with custom queries
-  - MongoDB database integration
-  - Secure Create, Read, Update, Delete functionality  
-- 📈 Lead Generation & Conversion-Based Pages  
-- ⚡ Speed Optimization & Clean Code Practices
+#### 🛠️ WordPress Development & Maintenance
+
+* Custom WordPress Theme Development
+* Elementor Widget & Addon Development
+* WordPress Bug Fixing & Troubleshooting
+* Website Design Fixes & Layout Adjustments
+* Plugin Conflict Resolution
+* PHP, JavaScript, jQuery & CSS Issue Fixes
+* WooCommerce Customization & Support
+* Website Migration & Clone Setup
+* Theme Customization & Feature Enhancements
+* Responsive Design Fixes for Mobile & Tablet
+* Website Speed Optimization & Performance Improvements
+* Security Updates & General Website Maintenance
+
+#### 🎨 Frontend Development
+
+* HTML5, CSS3, JavaScript
+* Tailwind CSS & Bootstrap
+* GSAP Animations
+* Responsive UI Development
+* Pixel-Perfect Figma to WordPress Conversion
+
+#### 💻 Full-Stack Web Development
+
+* React Applications
+* Node.js & Express APIs
+* MongoDB Database Design
+* Firebase Authentication
+* CRUD Operations & Dashboard Development
+* REST API Integration
+* Authentication & Authorization Systems
+
+#### 🚀 Additional Services
+
+* WordPress Error Fixes
+* Website Redesign & Improvements
+* Landing Page Development
+* Lead Generation Pages
+* Cross-Browser Compatibility Fixes
+* Clean, Maintainable & Scalable Code
+* Ongoing Website Support & Maintenance
+
 
 ---
 
