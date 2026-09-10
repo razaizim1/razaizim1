@@ -114,10 +114,14 @@ Beyond WordPress, I also develop modern full-stack web applications using **Reac
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=razaizim1&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=razaizim1&show_icons=true&theme=dark&hide_border=true" alt="Razai Zim GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=razaizim1&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
